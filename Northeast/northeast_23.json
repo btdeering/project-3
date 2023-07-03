@@ -1,0 +1,62 @@
+[
+  {
+    "province_state": "Maine",
+    "sum": 306647,
+    "sum-2": 2790,
+    "avg": 0.8978458604117647
+  },
+  {
+    "province_state": "Vermont",
+    "sum": 148393,
+    "sum-2": 791,
+    "avg": 0.5057859009333333
+  },
+  {
+    "province_state": "Delaware",
+    "sum": 321888,
+    "sum-2": 3206,
+    "avg": 0.8086810595
+  },
+  {
+    "province_state": "Massachusetts",
+    "sum": 2154886,
+    "sum-2": 22940,
+    "avg": 1.0720092455
+  },
+  {
+    "province_state": "Virginia",
+    "sum": 2199302,
+    "sum-2": 22670,
+    "avg": 1.385234423443609
+  },
+  {
+    "province_state": "Rhode Island",
+    "sum": 443645,
+    "sum-2": 3770,
+    "avg": 0.6725854245
+  },
+  {
+    "province_state": "New York",
+    "sum": 6576267,
+    "sum-2": 75139,
+    "avg": 0.9425304021111112
+  },
+  {
+    "province_state": "Maryland",
+    "sum": 1318234,
+    "sum-2": 15967,
+    "avg": 1.351104919875
+  },
+  {
+    "province_state": "New Jersey",
+    "sum": 2926834,
+    "sum-2": 35510,
+    "avg": 1.1458346047727272
+  },
+  {
+    "province_state": "New Hampshire",
+    "sum": 367542,
+    "sum-2": 2856,
+    "avg": 0.7746184839090909
+  }
+]

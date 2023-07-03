@@ -1,0 +1,62 @@
+[
+  {
+    "province_state": "Maine",
+    "confirmed": 146736,
+    "deaths": 1531,
+    "case_fatality_ratio": 0.985030497
+  },
+  {
+    "province_state": "Vermont",
+    "confirmed": 64447,
+    "deaths": 471,
+    "case_fatality_ratio": 0.611259587
+  },
+  {
+    "province_state": "Delaware",
+    "confirmed": 183880,
+    "deaths": 2286,
+    "case_fatality_ratio": 1.008139186
+  },
+  {
+    "province_state": "Massachusetts",
+    "confirmed": 1140614,
+    "deaths": 16706,
+    "case_fatality_ratio": 1.781015344
+  },
+  {
+    "province_state": "Virginia",
+    "confirmed": 1118518,
+    "deaths": 15587,
+    "case_fatality_ratio": 1.794226445
+  },
+  {
+    "province_state": "Rhode Island",
+    "confirmed": 231096,
+    "deaths": 3066,
+    "case_fatality_ratio": 1.121235971
+  },
+  {
+    "province_state": "New York",
+    "confirmed": 3517696,
+    "deaths": 59585,
+    "case_fatality_ratio": 1.278425751
+  },
+  {
+    "province_state": "Maryland",
+    "confirmed": 735723,
+    "deaths": 11758,
+    "case_fatality_ratio": 3.124874839
+  },
+  {
+    "province_state": "New Jersey",
+    "confirmed": 1596644,
+    "deaths": 29053,
+    "case_fatality_ratio": 1.680421376
+  },
+  {
+    "province_state": "New Hampshire",
+    "confirmed": 198667,
+    "deaths": 1961,
+    "case_fatality_ratio": 0.939436075
+  }
+]
