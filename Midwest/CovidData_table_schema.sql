@@ -40,7 +40,7 @@ CREATE TABLE covid_data_2022
  active int,
  combined_key varchar,
  incident_rate varchar,
- case_fatality_ratio decimal
+ case_fatality_ratio float
 );
 
 -- Create table for covid data 2023
@@ -58,7 +58,7 @@ CREATE TABLE covid_data_2023
  active int,
  combined_key varchar,
  incident_rate varchar,
- case_fatality_ratio decimal
+ case_fatality_ratio float
 );
 
 SELECT * FROM covid_data_2021;
@@ -96,7 +96,7 @@ GROUP BY province_state;
 -- get region totals for 2021
 SELECT 
     CASE
-        WHEN Province_State IN (SELECT province_state FROM midWest_2023)
+        WHEN Province_State IN (SELECT province_state FROM midWest_2021)
 		THEN 'Mid West'        
     END AS region,
 	SUM(Confirmed) AS confirmed, 
@@ -134,7 +134,7 @@ GROUP BY province_state;
 -- get region totals for 2022
 SELECT 
     CASE
-        WHEN Province_State IN (SELECT province_state FROM midWest_2023)
+        WHEN Province_State IN (SELECT province_state FROM midWest_2022)
 		THEN 'Mid West'        
     END AS region,
 	SUM(Confirmed) AS confirmed, 
