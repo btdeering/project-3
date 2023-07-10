@@ -97,3 +97,19 @@ layerGroup.clearLayers();
 
 
 
+  // function getStateColor(value) {
+  //   // Define your color ranges and corresponding colors here
+  //   const colorRanges = [
+  //     { min: 0, max: 100, color: 'green' },
+  //     { min: 101, max: 200, color: 'yellow' },
+  //     { min: 201, max: 300, color: 'orange' },
+  //     { min: 301, max: Infinity, color: 'red' }
+  //   ];
+  
+  //   // Find the color range that matches the state's value
+  //   const range = colorRanges.find(range => value >= range.min && value <= range.max);
+  
+  //   // Return the corresponding color
+  //   return range ? range.color : 'gray'; // Default color for values outside defined ranges
+  // }
+  
