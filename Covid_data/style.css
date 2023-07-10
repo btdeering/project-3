@@ -1,0 +1,40 @@
+/* Remove the default margin and padding from the body. */
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Set map, body, and html to 100% of the screen size. */
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+  
+  .container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 10;
+    .label{
+      margin-bottom: 10px;
+    }
+    .formcontrol{
+      margin-bottom: 10px;
+    }
+  }
+
+  .year { 
+    padding: 10px; 
+    width:250px;
+    font: 14px/16px Arial, Helvetica, sans-serif; 
+    background: white; background: rgba(255,255,255,0.8); 
+    box-shadow: 0 0 15px rgba(0,0,0,0.2); 
+    border-radius: 5px; 
+        .label {
+        font-weight: bold;
+        margin-right: 10px;  
+        }
+        select{
+            width: 100%;
+        }
+    } 
