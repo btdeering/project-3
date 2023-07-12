@@ -1,27 +1,27 @@
 [
  {
    "province_state": "Michigan",
-   "confirmed": 528621,
+   "confirmed": 528604,
    "deaths": 13018,
-   "case_fataility_ratio": "2.2404002501705884"
+   "case_fataility_ratio": "2.2664514158702462"
  },
  {
    "province_state": "North Dakota",
    "confirmed": 92215,
-   "deaths": 1316,
+   "deaths": 1309,
    "case_fataility_ratio": "1.890061983097506"
  },
  {
    "province_state": "Missouri",
-   "confirmed": 445019,
+   "confirmed": 408059,
    "deaths": 5747,
-   "case_fataility_ratio": "1.4224916996256014"
+   "case_fataility_ratio": "1.4347545591051325"
  },
  {
    "province_state": "Minnesota",
-   "confirmed": 415302,
-   "deaths": 5382,
-   "case_fataility_ratio": "1.4537053630588002"
+   "confirmed": 414858,
+   "deaths": 5323,
+   "case_fataility_ratio": "1.3176756742630589"
  },
  {
    "province_state": "South Dakota",
@@ -31,9 +31,9 @@
  },
  {
    "province_state": "Nebraska",
-   "confirmed": 167716,
-   "deaths": 1668,
-   "case_fataility_ratio": "1.3961533293922237"
+   "confirmed": 166459,
+   "deaths": 1663,
+   "case_fataility_ratio": "1.4068886074056368"
  },
  {
    "province_state": "Wisconsin",
@@ -43,26 +43,26 @@
  },
  {
    "province_state": "Iowa",
-   "confirmed": 282980,
+   "confirmed": 282229,
    "deaths": 3898,
-   "case_fataility_ratio": "1.7444315116700235"
+   "case_fataility_ratio": "1.7620520319899229"
  },
  {
    "province_state": "Indiana",
    "confirmed": 517773,
-   "deaths": 9468,
+   "deaths": 9237,
    "case_fataility_ratio": "1.9398090168849915"
  },
  {
    "province_state": "Illinois",
-   "confirmed": 963389,
-   "deaths": 17978,
-   "case_fataility_ratio": "11.465713664187852"
+   "confirmed": 963244,
+   "deaths": 16490,
+   "case_fataility_ratio": "1.6138575196486646"
  },
  {
    "province_state": "Kansas",
    "confirmed": 229822,
-   "deaths": 2892,
+   "deaths": 2798,
    "case_fataility_ratio": "1.686681473817866"
  },
  {
