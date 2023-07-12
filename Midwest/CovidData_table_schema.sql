@@ -179,14 +179,14 @@ WHERE country_region = 'US' AND (Province_State = 'Illinois' OR
 								 Province_State = 'Indiana' 								 
 								);
 -- Query to find out unassigned area for case_fatality_ration
-select * from midWest_2022
+select * from midWest_2023
 where admin2 = 'Unassigned';
 
 -- Query to delete outliers
-DELETE FROM midWest_2022
+DELETE FROM midWest_2023
 WHERE admin2 = 'Unassigned';
 
-SELECT * FROM midWest_2022;
+SELECT * FROM midWest_2023;
 
 -- get state totals for 2023
 SELECT province_state,
