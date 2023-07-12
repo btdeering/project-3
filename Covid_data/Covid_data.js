@@ -59,7 +59,7 @@ const year = L.control();
     d > 30000  ? '#FC4E2A' :
     d > 10000   ? '#FD8D3C' :
     d > 5000   ? '#FEB24C' :
-    d > 1000  ? '#FED976' : '#FFEDA0';
+    d > 100  ? '#FED976' : '#FFEDA0';
 	}
 
   // Setup the legend.
@@ -68,7 +68,7 @@ const year = L.control();
 	legend.onAdd = function (map) {
 
 		const div = L.DomUtil.create('div', 'info legend');
-		const grades = [1000, 5000, 20000, 40000, 50000, 70000, 90000 ];
+		const grades = [100, 5000, 20000, 40000, 50000, 70000, 90000 ];
 		const labels = [];
 		let from, to;
 
