@@ -83,7 +83,18 @@ WHERE country_region = 'US' AND (Province_State = 'Illinois' OR
 								 Province_State = 'South Dakota' OR
 								 Province_State = 'Indiana' 								 
 								);
+
+
+-- Query to find out unassigned area for case_fatality_ration
+select * from midWest_2021
+where admin2 = 'Unassigned';
+
+-- Query to delete outliers
+DELETE FROM midWest_2021
+WHERE admin2 = 'Unassigned';
+
 SELECT * FROM midWest_2021;
+
 
 -- get state totals for 2021
 SELECT province_state,
@@ -121,6 +132,14 @@ WHERE country_region = 'US' AND (Province_State = 'Illinois' OR
 								 Province_State = 'South Dakota' OR
 								 Province_State = 'Indiana' 								 
 								);
+-- Query to find out unassigned area for case_fatality_ration
+select * from midWest_2022
+where admin2 = 'Unassigned';
+
+-- Query to delete outliers
+DELETE FROM midWest_2022
+WHERE admin2 = 'Unassigned';
+
 SELECT * FROM midWest_2022;
 
 -- get state totals for 2022
@@ -159,7 +178,15 @@ WHERE country_region = 'US' AND (Province_State = 'Illinois' OR
 								 Province_State = 'South Dakota' OR
 								 Province_State = 'Indiana' 								 
 								);
-SELECT * FROM midWest_2023;
+-- Query to find out unassigned area for case_fatality_ration
+select * from midWest_2022
+where admin2 = 'Unassigned';
+
+-- Query to delete outliers
+DELETE FROM midWest_2022
+WHERE admin2 = 'Unassigned';
+
+SELECT * FROM midWest_2022;
 
 -- get state totals for 2023
 SELECT province_state,
