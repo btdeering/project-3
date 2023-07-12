@@ -12,7 +12,7 @@
 	}).addTo(map);
 
 // Use this link to get the GeoJSON data. (this is the default link when page is loading)
-let link = '../Clean/clean_2021.json';
+let link = '../Improved/improved_2021.json';
 
 
 //Create a controls to add the year and region dropdown to add on the map as control
@@ -94,17 +94,17 @@ layerGroup.clearLayers();
 
 // based on the selected year change the JSON file path to load 
   if(year == '2021'){
-    link = '../Clean/clean_2021.json';
+    link = '../Improved/improved_2021.json';
   }
   if(year == '2022'){
-    link = '../Clean/clean_2022.json';
+    link = '../Improved/improved_2022.json';
   }
   if(year == '2023'){
-    link = '../Clean/clean_2023.json';
+    link = '../Improved/improved_2023.json';
   }
 
   //load the JSON file and get the data 
-  d3.json(link).then(function(data) { 
+  d3.json(link).then(function(data) { debugger;
 
   let filteredData = data;
     if(region !== 'All') {
