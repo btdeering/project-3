@@ -2,7 +2,7 @@
     {
         "State": "Alabama",
         "Region": "Southeast",
-        "Lat": 32.884,
+        "lat": 32.884,
         "long": -86.71,
         "total_confirmed": 1568934,
         "total_deaths": 20737,
@@ -11,7 +11,7 @@
     {
         "State": "Alaska",
         "Region": "Pacific",
-        "Lat": 60.365,
+        "lat": 60.365,
         "long": -148.886,
         "total_confirmed": 301426,
         "total_deaths": 1455,
@@ -20,7 +20,7 @@
     {
         "State": "Arizona",
         "Region": "Southwest",
-        "Lat": 33.676,
+        "lat": 33.676,
         "long": -111.463,
         "total_confirmed": 2378334,
         "total_deaths": 32182,
@@ -29,7 +29,7 @@
     {
         "State": "Arkansas",
         "Region": "Southeast",
-        "Lat": 34.912,
+        "lat": 34.912,
         "long": -92.434,
         "total_confirmed": 953042,
         "total_deaths": 12695,
@@ -38,7 +38,7 @@
     {
         "State": "California",
         "Region": "Pacific",
-        "Lat": 37.844,
+        "lat": 37.844,
         "long": -120.729,
         "total_confirmed": 11830741,
         "total_deaths": 98544,
@@ -47,7 +47,7 @@
     {
         "State": "Colorado",
         "Region": "Rocky_Mountain",
-        "Lat": 38.935,
+        "lat": 38.935,
         "long": -105.486,
         "total_confirmed": 1734562,
         "total_deaths": 13880,
@@ -56,7 +56,7 @@
     {
         "State": "Connecticut",
         "Region": "Northeast",
-        "Lat": 41.614,
+        "lat": 41.614,
         "long": -72.657,
         "total_confirmed": 946165,
         "total_deaths": 11772,
@@ -65,7 +65,7 @@
     {
         "State": "Delaware",
         "Region": "Northeast",
-        "Lat": 39.109,
+        "lat": 39.109,
         "long": -75.533,
         "total_confirmed": 320766,
         "total_deaths": 3206,
@@ -74,7 +74,7 @@
     {
         "State": "Florida",
         "Region": "Southeast",
-        "Lat": 28.941,
+        "lat": 28.941,
         "long": -82.701,
         "total_confirmed": 7309701,
         "total_deaths": 82869,
@@ -83,7 +83,7 @@
     {
         "State": "Georgia",
         "Region": "Southeast",
-        "Lat": 32.809,
+        "lat": 32.809,
         "long": -83.577,
         "total_confirmed": 2875696,
         "total_deaths": 39816,
@@ -92,7 +92,7 @@
     {
         "State": "Hawaii",
         "Region": "Pacific",
-        "Lat": 20.991,
+        "lat": 20.991,
         "long": -157.414,
         "total_confirmed": 363188,
         "total_deaths": 1747,
@@ -101,7 +101,7 @@
     {
         "State": "Idaho",
         "Region": "Rocky_Mountain",
-        "Lat": 44.263,
+        "lat": 44.263,
         "long": -114.46,
         "total_confirmed": 511601,
         "total_deaths": 5316,
@@ -110,7 +110,7 @@
     {
         "State": "Illinois",
         "Region": "Midwest",
-        "Lat": 39.844,
+        "lat": 39.844,
         "long": -89.178,
         "total_confirmed": 3969740,
         "total_deaths": 35761,
@@ -119,7 +119,7 @@
     {
         "State": "Indiana",
         "Region": "Midwest",
-        "Lat": 39.837,
+        "lat": 39.837,
         "long": -86.219,
         "total_confirmed": 2002760,
         "total_deaths": 25364,
@@ -128,7 +128,7 @@
     {
         "State": "Iowa",
         "Region": "Midwest",
-        "Lat": 42.03,
+        "lat": 42.03,
         "long": -93.466,
         "total_confirmed": 886408,
         "total_deaths": 10423,
@@ -137,7 +137,7 @@
     {
         "State": "Kansas",
         "Region": "Midwest",
-        "Lat": 38.485,
+        "lat": 38.485,
         "long": -98.085,
         "total_confirmed": 917065,
         "total_deaths": 9717,
@@ -146,7 +146,7 @@
     {
         "State": "Kentucky",
         "Region": "Southeast",
-        "Lat": 37.622,
+        "lat": 37.622,
         "long": -85.2,
         "total_confirmed": 1660077,
         "total_deaths": 17670,
@@ -155,7 +155,7 @@
     {
         "State": "Louisiana",
         "Region": "Southeast",
-        "Lat": 31.092,
+        "lat": 31.092,
         "long": -91.824,
         "total_confirmed": 1512922,
         "total_deaths": 18370,
@@ -164,7 +164,7 @@
     {
         "State": "Maine",
         "Region": "Northeast",
-        "Lat": 44.688,
+        "lat": 44.688,
         "long": -69.524,
         "total_confirmed": 306642,
         "total_deaths": 2790,
@@ -173,7 +173,7 @@
     {
         "State": "Maryland",
         "Region": "Northeast",
-        "Lat": 39.015,
+        "lat": 39.015,
         "long": -76.675,
         "total_confirmed": 1318234,
         "total_deaths": 15918,
@@ -182,7 +182,7 @@
     {
         "State": "Massachusetts",
         "Region": "Northeast",
-        "Lat": 42.241,
+        "lat": 42.241,
         "long": -71.651,
         "total_confirmed": 1958462,
         "total_deaths": 22911,
@@ -191,7 +191,7 @@
     {
         "State": "Michigan",
         "Region": "Midwest",
-        "Lat": 44.044,
+        "lat": 44.044,
         "long": -85.182,
         "total_confirmed": 2937454,
         "total_deaths": 40529,
@@ -200,7 +200,7 @@
     {
         "State": "Minnesota",
         "Region": "Midwest",
-        "Lat": 45.552,
+        "lat": 45.552,
         "long": -94.431,
         "total_confirmed": 1734922,
         "total_deaths": 13933,
@@ -209,7 +209,7 @@
     {
         "State": "Mississippi",
         "Region": "Southeast",
-        "Lat": 32.793,
+        "lat": 32.793,
         "long": -89.646,
         "total_confirmed": 955145,
         "total_deaths": 13097,
@@ -218,7 +218,7 @@
     {
         "State": "Missouri",
         "Region": "Midwest",
-        "Lat": 38.451,
+        "lat": 38.451,
         "long": -92.481,
         "total_confirmed": 1596140,
         "total_deaths": 20928,
@@ -227,7 +227,7 @@
     {
         "State": "Montana",
         "Region": "Rocky_Mountain",
-        "Lat": 46.975,
+        "lat": 46.975,
         "long": -109.7,
         "total_confirmed": 323055,
         "total_deaths": 3621,
@@ -236,7 +236,7 @@
     {
         "State": "Nebraska",
         "Region": "Midwest",
-        "Lat": 41.322,
+        "lat": 41.322,
         "long": -99.039,
         "total_confirmed": 541161,
         "total_deaths": 4653,
@@ -245,7 +245,7 @@
     {
         "State": "Nevada",
         "Region": "Rocky_Mountain",
-        "Lat": 39.256,
+        "lat": 39.256,
         "long": -117.564,
         "total_confirmed": 865255,
         "total_deaths": 11751,
@@ -254,7 +254,7 @@
     {
         "State": "New Hampshire",
         "Region": "Northeast",
-        "Lat": 43.479,
+        "lat": 43.479,
         "long": -71.578,
         "total_confirmed": 365365,
         "total_deaths": 2849,
@@ -263,7 +263,7 @@
     {
         "State": "New Jersey",
         "Region": "Northeast",
-        "Lat": 40.286,
+        "lat": 40.286,
         "long": -74.622,
         "total_confirmed": 2925160,
         "total_deaths": 35510,
@@ -272,7 +272,7 @@
     {
         "State": "New Mexico",
         "Region": "Southwest",
-        "Lat": 34.549,
+        "lat": 34.549,
         "long": -105.887,
         "total_confirmed": 651895,
         "total_deaths": 8814,
@@ -281,7 +281,7 @@
     {
         "State": "New York",
         "Region": "Northeast",
-        "Lat": 42.544,
+        "lat": 42.544,
         "long": -75.474,
         "total_confirmed": 6575300,
         "total_deaths": 74594,
@@ -290,7 +290,7 @@
     {
         "State": "North Carolina",
         "Region": "Southeast",
-        "Lat": 35.624,
+        "lat": 35.624,
         "long": -79.501,
         "total_confirmed": 3316814,
         "total_deaths": 27629,
@@ -299,7 +299,7 @@
     {
         "State": "North Dakota",
         "Region": "Midwest",
-        "Lat": 47.394,
+        "lat": 47.394,
         "long": -100.249,
         "total_confirmed": 280818,
         "total_deaths": 2232,
@@ -308,7 +308,7 @@
     {
         "State": "Ohio",
         "Region": "Midwest",
-        "Lat": 40.311,
+        "lat": 40.311,
         "long": -82.835,
         "total_confirmed": 3307568,
         "total_deaths": 41251,
@@ -317,7 +317,7 @@
     {
         "State": "Oklahoma",
         "Region": "Southwest",
-        "Lat": 35.502,
+        "lat": 35.502,
         "long": -97.251,
         "total_confirmed": 1249884,
         "total_deaths": 15394,
@@ -326,7 +326,7 @@
     {
         "State": "Oregon",
         "Region": "Pacific",
-        "Lat": 44.492,
+        "lat": 44.492,
         "long": -121.477,
         "total_confirmed": 939299,
         "total_deaths": 8962,
@@ -335,7 +335,7 @@
     {
         "State": "Pennsylvania",
         "Region": "Northeast",
-        "Lat": 40.818,
+        "lat": 40.818,
         "long": -77.615,
         "total_confirmed": 3416142,
         "total_deaths": 48892,
@@ -344,7 +344,7 @@
     {
         "State": "Rhode Island",
         "Region": "Northeast",
-        "Lat": 41.655,
+        "lat": 41.655,
         "long": -71.464,
         "total_confirmed": 414110,
         "total_deaths": 3768,
@@ -353,7 +353,7 @@
     {
         "State": "South Carolina",
         "Region": "Southeast",
-        "Lat": 33.957,
+        "lat": 33.957,
         "long": -80.983,
         "total_confirmed": 1770059,
         "total_deaths": 18834,
@@ -362,7 +362,7 @@
     {
         "State": "South Dakota",
         "Region": "Midwest",
-        "Lat": 44.273,
+        "lat": 44.273,
         "long": -99.311,
         "total_confirmed": 271856,
         "total_deaths": 3118,
@@ -371,7 +371,7 @@
     {
         "State": "Tennessee",
         "Region": "Southeast",
-        "Lat": 35.885,
+        "lat": 35.885,
         "long": -86.109,
         "total_confirmed": 2337844,
         "total_deaths": 28057,
@@ -380,7 +380,7 @@
     {
         "State": "Texas",
         "Region": "Southwest",
-        "Lat": 31.661,
+        "lat": 31.661,
         "long": -98.653,
         "total_confirmed": 8115511,
         "total_deaths": 91561,
@@ -389,7 +389,7 @@
     {
         "State": "Utah",
         "Region": "Rocky_Mountain",
-        "Lat": 40.15,
+        "lat": 40.15,
         "long": -111.537,
         "total_confirmed": 803867,
         "total_deaths": 3330,
@@ -398,7 +398,7 @@
     {
         "State": "Vermont",
         "Region": "Northeast",
-        "Lat": 44.159,
+        "lat": 44.159,
         "long": -72.684,
         "total_confirmed": 145412,
         "total_deaths": 779,
@@ -407,7 +407,7 @@
     {
         "State": "Virginia",
         "Region": "Southeast",
-        "Lat": 37.566,
+        "lat": 37.566,
         "long": -78.514,
         "total_confirmed": 2199302,
         "total_deaths": 22670,
@@ -416,7 +416,7 @@
     {
         "State": "Washington",
         "Region": "Pacific",
-        "Lat": 47.234,
+        "lat": 47.234,
         "long": -120.719,
         "total_confirmed": 1880380,
         "total_deaths": 15032,
@@ -425,7 +425,7 @@
     {
         "State": "West Virginia",
         "Region": "Southeast",
-        "Lat": 38.814,
+        "lat": 38.814,
         "long": -80.617,
         "total_confirmed": 624721,
         "total_deaths": 7672,
@@ -434,7 +434,7 @@
     {
         "State": "Wisconsin",
         "Region": "Midwest",
-        "Lat": 44.395,
+        "lat": 44.395,
         "long": -89.798,
         "total_confirmed": 1960878,
         "total_deaths": 15802,
@@ -443,7 +443,7 @@
     {
         "State": "Wyoming",
         "Region": "Rocky_Mountain",
-        "Lat": 43.087,
+        "lat": 43.087,
         "long": -107.153,
         "total_confirmed": 182847,
         "total_deaths": 1958,
