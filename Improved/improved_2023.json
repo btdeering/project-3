@@ -1,0 +1,452 @@
+[
+    {
+        "State": "Alabama",
+        "Region": "Southeast",
+        "Lat": 32.884,
+        "long": -86.71,
+        "total_confirmed": 1568934,
+        "total_deaths": 20737,
+        "average_case_fatality_ratio": 1.591
+    },
+    {
+        "State": "Alaska",
+        "Region": "Pacific",
+        "Lat": 60.365,
+        "long": -148.886,
+        "total_confirmed": 301426,
+        "total_deaths": 1455,
+        "average_case_fatality_ratio": 0.403
+    },
+    {
+        "State": "Arizona",
+        "Region": "Southwest",
+        "Lat": 33.676,
+        "long": -111.463,
+        "total_confirmed": 2378334,
+        "total_deaths": 32182,
+        "average_case_fatality_ratio": 1.68
+    },
+    {
+        "State": "Arkansas",
+        "Region": "Southeast",
+        "Lat": 34.912,
+        "long": -92.434,
+        "total_confirmed": 953042,
+        "total_deaths": 12695,
+        "average_case_fatality_ratio": 1.647
+    },
+    {
+        "State": "California",
+        "Region": "Pacific",
+        "Lat": 37.844,
+        "long": -120.729,
+        "total_confirmed": 11830741,
+        "total_deaths": 98544,
+        "average_case_fatality_ratio": 0.779
+    },
+    {
+        "State": "Colorado",
+        "Region": "Rocky_Mountain",
+        "Lat": 38.935,
+        "long": -105.486,
+        "total_confirmed": 1734562,
+        "total_deaths": 13880,
+        "average_case_fatality_ratio": 1.121
+    },
+    {
+        "State": "Connecticut",
+        "Region": "Northeast",
+        "Lat": 41.614,
+        "long": -72.657,
+        "total_confirmed": 946165,
+        "total_deaths": 11772,
+        "average_case_fatality_ratio": 1.216
+    },
+    {
+        "State": "Delaware",
+        "Region": "Northeast",
+        "Lat": 39.109,
+        "long": -75.533,
+        "total_confirmed": 320766,
+        "total_deaths": 3206,
+        "average_case_fatality_ratio": 1.078
+    },
+    {
+        "State": "Florida",
+        "Region": "Southeast",
+        "Lat": 28.941,
+        "long": -82.701,
+        "total_confirmed": 7309701,
+        "total_deaths": 82869,
+        "average_case_fatality_ratio": 1.518
+    },
+    {
+        "State": "Georgia",
+        "Region": "Southeast",
+        "Lat": 32.809,
+        "long": -83.577,
+        "total_confirmed": 2875696,
+        "total_deaths": 39816,
+        "average_case_fatality_ratio": 2.016
+    },
+    {
+        "State": "Hawaii",
+        "Region": "Pacific",
+        "Lat": 20.991,
+        "long": -157.414,
+        "total_confirmed": 363188,
+        "total_deaths": 1747,
+        "average_case_fatality_ratio": 0.419
+    },
+    {
+        "State": "Idaho",
+        "Region": "Rocky_Mountain",
+        "Lat": 44.263,
+        "long": -114.46,
+        "total_confirmed": 511601,
+        "total_deaths": 5316,
+        "average_case_fatality_ratio": 1.387
+    },
+    {
+        "State": "Illinois",
+        "Region": "Midwest",
+        "Lat": 39.844,
+        "long": -89.178,
+        "total_confirmed": 3969740,
+        "total_deaths": 35761,
+        "average_case_fatality_ratio": 0.991
+    },
+    {
+        "State": "Indiana",
+        "Region": "Midwest",
+        "Lat": 39.837,
+        "long": -86.219,
+        "total_confirmed": 2002760,
+        "total_deaths": 25364,
+        "average_case_fatality_ratio": 1.406
+    },
+    {
+        "State": "Iowa",
+        "Region": "Midwest",
+        "Lat": 42.03,
+        "long": -93.466,
+        "total_confirmed": 886408,
+        "total_deaths": 10423,
+        "average_case_fatality_ratio": 1.563
+    },
+    {
+        "State": "Kansas",
+        "Region": "Midwest",
+        "Lat": 38.485,
+        "long": -98.085,
+        "total_confirmed": 917065,
+        "total_deaths": 9717,
+        "average_case_fatality_ratio": 1.496
+    },
+    {
+        "State": "Kentucky",
+        "Region": "Southeast",
+        "Lat": 37.622,
+        "long": -85.2,
+        "total_confirmed": 1660077,
+        "total_deaths": 17670,
+        "average_case_fatality_ratio": 1.289
+    },
+    {
+        "State": "Louisiana",
+        "Region": "Southeast",
+        "Lat": 31.092,
+        "long": -91.824,
+        "total_confirmed": 1512922,
+        "total_deaths": 18370,
+        "average_case_fatality_ratio": 1.397
+    },
+    {
+        "State": "Maine",
+        "Region": "Northeast",
+        "Lat": 44.688,
+        "long": -69.524,
+        "total_confirmed": 306642,
+        "total_deaths": 2790,
+        "average_case_fatality_ratio": 0.954
+    },
+    {
+        "State": "Maryland",
+        "Region": "Northeast",
+        "Lat": 39.015,
+        "long": -76.675,
+        "total_confirmed": 1318234,
+        "total_deaths": 15918,
+        "average_case_fatality_ratio": 1.351
+    },
+    {
+        "State": "Massachusetts",
+        "Region": "Northeast",
+        "Lat": 42.241,
+        "long": -71.651,
+        "total_confirmed": 1958462,
+        "total_deaths": 22911,
+        "average_case_fatality_ratio": 1.226
+    },
+    {
+        "State": "Michigan",
+        "Region": "Midwest",
+        "Lat": 44.044,
+        "long": -85.182,
+        "total_confirmed": 2937454,
+        "total_deaths": 40529,
+        "average_case_fatality_ratio": 1.642
+    },
+    {
+        "State": "Minnesota",
+        "Region": "Midwest",
+        "Lat": 45.552,
+        "long": -94.431,
+        "total_confirmed": 1734922,
+        "total_deaths": 13933,
+        "average_case_fatality_ratio": 0.952
+    },
+    {
+        "State": "Mississippi",
+        "Region": "Southeast",
+        "Lat": 32.793,
+        "long": -89.646,
+        "total_confirmed": 955145,
+        "total_deaths": 13097,
+        "average_case_fatality_ratio": 1.609
+    },
+    {
+        "State": "Missouri",
+        "Region": "Midwest",
+        "Lat": 38.451,
+        "long": -92.481,
+        "total_confirmed": 1596140,
+        "total_deaths": 20928,
+        "average_case_fatality_ratio": 1.661
+    },
+    {
+        "State": "Montana",
+        "Region": "Rocky_Mountain",
+        "Lat": 46.975,
+        "long": -109.7,
+        "total_confirmed": 323055,
+        "total_deaths": 3621,
+        "average_case_fatality_ratio": 1.574
+    },
+    {
+        "State": "Nebraska",
+        "Region": "Midwest",
+        "Lat": 41.322,
+        "long": -99.039,
+        "total_confirmed": 541161,
+        "total_deaths": 4653,
+        "average_case_fatality_ratio": 1.481
+    },
+    {
+        "State": "Nevada",
+        "Region": "Rocky_Mountain",
+        "Lat": 39.256,
+        "long": -117.564,
+        "total_confirmed": 865255,
+        "total_deaths": 11751,
+        "average_case_fatality_ratio": 2.033
+    },
+    {
+        "State": "New Hampshire",
+        "Region": "Northeast",
+        "Lat": 43.479,
+        "long": -71.578,
+        "total_confirmed": 365365,
+        "total_deaths": 2849,
+        "average_case_fatality_ratio": 0.82
+    },
+    {
+        "State": "New Jersey",
+        "Region": "Northeast",
+        "Lat": 40.286,
+        "long": -74.622,
+        "total_confirmed": 2925160,
+        "total_deaths": 35510,
+        "average_case_fatality_ratio": 1.2
+    },
+    {
+        "State": "New Mexico",
+        "Region": "Southwest",
+        "Lat": 34.549,
+        "long": -105.887,
+        "total_confirmed": 651895,
+        "total_deaths": 8814,
+        "average_case_fatality_ratio": 1.766
+    },
+    {
+        "State": "New York",
+        "Region": "Northeast",
+        "Lat": 42.544,
+        "long": -75.474,
+        "total_confirmed": 6575300,
+        "total_deaths": 74594,
+        "average_case_fatality_ratio": 0.954
+    },
+    {
+        "State": "North Carolina",
+        "Region": "Southeast",
+        "Lat": 35.624,
+        "long": -79.501,
+        "total_confirmed": 3316814,
+        "total_deaths": 27629,
+        "average_case_fatality_ratio": 1.048
+    },
+    {
+        "State": "North Dakota",
+        "Region": "Midwest",
+        "Lat": 47.394,
+        "long": -100.249,
+        "total_confirmed": 280818,
+        "total_deaths": 2232,
+        "average_case_fatality_ratio": 1.171
+    },
+    {
+        "State": "Ohio",
+        "Region": "Midwest",
+        "Lat": 40.311,
+        "long": -82.835,
+        "total_confirmed": 3307568,
+        "total_deaths": 41251,
+        "average_case_fatality_ratio": 1.444
+    },
+    {
+        "State": "Oklahoma",
+        "Region": "Southwest",
+        "Lat": 35.502,
+        "long": -97.251,
+        "total_confirmed": 1249884,
+        "total_deaths": 15394,
+        "average_case_fatality_ratio": 1.471
+    },
+    {
+        "State": "Oregon",
+        "Region": "Pacific",
+        "Lat": 44.492,
+        "long": -121.477,
+        "total_confirmed": 939299,
+        "total_deaths": 8962,
+        "average_case_fatality_ratio": 1.237
+    },
+    {
+        "State": "Pennsylvania",
+        "Region": "Northeast",
+        "Lat": 40.818,
+        "long": -77.615,
+        "total_confirmed": 3416142,
+        "total_deaths": 48892,
+        "average_case_fatality_ratio": 1.666
+    },
+    {
+        "State": "Rhode Island",
+        "Region": "Northeast",
+        "Lat": 41.655,
+        "long": -71.464,
+        "total_confirmed": 414110,
+        "total_deaths": 3768,
+        "average_case_fatality_ratio": 0.806
+    },
+    {
+        "State": "South Carolina",
+        "Region": "Southeast",
+        "Lat": 33.957,
+        "long": -80.983,
+        "total_confirmed": 1770059,
+        "total_deaths": 18834,
+        "average_case_fatality_ratio": 1.309
+    },
+    {
+        "State": "South Dakota",
+        "Region": "Midwest",
+        "Lat": 44.273,
+        "long": -99.311,
+        "total_confirmed": 271856,
+        "total_deaths": 3118,
+        "average_case_fatality_ratio": 1.671
+    },
+    {
+        "State": "Tennessee",
+        "Region": "Southeast",
+        "Lat": 35.885,
+        "long": -86.109,
+        "total_confirmed": 2337844,
+        "total_deaths": 28057,
+        "average_case_fatality_ratio": 1.45
+    },
+    {
+        "State": "Texas",
+        "Region": "Southwest",
+        "Lat": 31.661,
+        "long": -98.653,
+        "total_confirmed": 8115511,
+        "total_deaths": 91561,
+        "average_case_fatality_ratio": 1.892
+    },
+    {
+        "State": "Utah",
+        "Region": "Rocky_Mountain",
+        "Lat": 40.15,
+        "long": -111.537,
+        "total_confirmed": 803867,
+        "total_deaths": 3330,
+        "average_case_fatality_ratio": 0.452
+    },
+    {
+        "State": "Vermont",
+        "Region": "Northeast",
+        "Lat": 44.159,
+        "long": -72.684,
+        "total_confirmed": 145412,
+        "total_deaths": 779,
+        "average_case_fatality_ratio": 0.513
+    },
+    {
+        "State": "Virginia",
+        "Region": "Southeast",
+        "Lat": 37.566,
+        "long": -78.514,
+        "total_confirmed": 2199302,
+        "total_deaths": 22670,
+        "average_case_fatality_ratio": 1.385
+    },
+    {
+        "State": "Washington",
+        "Region": "Pacific",
+        "Lat": 47.234,
+        "long": -120.719,
+        "total_confirmed": 1880380,
+        "total_deaths": 15032,
+        "average_case_fatality_ratio": 1.069
+    },
+    {
+        "State": "West Virginia",
+        "Region": "Southeast",
+        "Lat": 38.814,
+        "long": -80.617,
+        "total_confirmed": 624721,
+        "total_deaths": 7672,
+        "average_case_fatality_ratio": 1.277
+    },
+    {
+        "State": "Wisconsin",
+        "Region": "Midwest",
+        "Lat": 44.395,
+        "long": -89.798,
+        "total_confirmed": 1960878,
+        "total_deaths": 15802,
+        "average_case_fatality_ratio": 0.978
+    },
+    {
+        "State": "Wyoming",
+        "Region": "Rocky_Mountain",
+        "Lat": 43.087,
+        "long": -107.153,
+        "total_confirmed": 182847,
+        "total_deaths": 1958,
+        "average_case_fatality_ratio": 1.232
+    }
+]

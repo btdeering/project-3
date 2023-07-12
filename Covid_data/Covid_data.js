@@ -4,22 +4,7 @@
   // create a layer to add the markers
   let layerGroup = L.layerGroup().addTo(map);
 
-  // let regionPolygonData =  {
-  //   type:"FeatureCollection",
-  //   features:[
-        // {
-        //     "type":"Feature",
-        // "id":"01",
-        // "properties":
-        // {"name":"Alabama",
-        // },
-        // "geometry":
-        // {"type":"Polygon",
-        // "coordinates":[[]]
-        // }
-        // }
-//]
- //};
+  
 // Adding the tile layer
 	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
@@ -68,21 +53,22 @@ const year = L.control();
 	year.addTo(map);
 
 	function getColor(d) {
-    return d > 15000 ? '#800026' :
-    d > 12000  ? '#BD0026' :
-    d > 10000  ? '#E31A1C' :
-    d > 7000  ? '#FC4E2A' :
-    d > 5000   ? '#FD8D3C' :
-    d > 3000   ? '#FEB24C' :
-    d > 1000   ? '#FED976' : '#FFEDA0';
+    return d > 90000 ? '#800026' :
+    d > 70000  ? '#BD0026' :
+    d > 50000  ? '#E31A1C' :
+    d > 30000  ? '#FC4E2A' :
+    d > 10000   ? '#FD8D3C' :
+    d > 5000   ? '#FEB24C' :
+    d > 1000  ? '#FED976' : '#FFEDA0';
 	}
 
+  // Setup the legend.
   const legend = L.control({position: 'bottomright'});
 
 	legend.onAdd = function (map) {
 
 		const div = L.DomUtil.create('div', 'info legend');
-		const grades = [1000, 3000, 5000, 7000, 10000, 12000, 15000];
+		const grades = [500, 5000, 20000, 40000, 50000, 70000, 90000 ];
 		const labels = [];
 		let from, to;
 
@@ -119,28 +105,6 @@ layerGroup.clearLayers();
 
   //load the JSON file and get the data 
   d3.json(link).then(function(data) { 
-
-//     let transformedData = data.reduce((acc, d) => { 
-//       if (Object.keys(acc).includes(d.Region)) return acc;
-  
-//       acc[d.Region] = data.filter(g => g.Region === d.Region); 
-//       return acc;
-//   }, {})
-// let index = 0;
-//   for(let region of Object.entries(transformedData)) {
-//     const feature = {
-//            type:"Feature",
-//         id: index++,
-//         properties:
-//         {name:region[0],
-//         },
-//         geometry:
-//         {type:"Polygon",
-//         coordinates:[[]]
-//     }
-//       region[1]
-
-//   }
 
   let filteredData = data;
     if(region !== 'All') {
@@ -189,19 +153,4 @@ layerGroup.clearLayers();
 
 
 
-  // function getStateColor(value) {
-  //   // Define your color ranges and corresponding colors here
-  //   const colorRanges = [
-  //     { min: 0, max: 100, color: 'green' },
-  //     { min: 101, max: 200, color: 'yellow' },
-  //     { min: 201, max: 300, color: 'orange' },
-  //     { min: 301, max: Infinity, color: 'red' }
-  //   ];
-  
-  //   // Find the color range that matches the state's value
-  //   const range = colorRanges.find(range => value >= range.min && value <= range.max);
-  
-  //   // Return the corresponding color
-  //   return range ? range.color : 'gray'; // Default color for values outside defined ranges
-  // }
   
