@@ -1,4 +1,4 @@
-# project-3
+# Project-3: COVID-19 United States Metrics
 
 We created a visualization of covid-19's effect on the United States. The variables go as followed confirmed cases, deaths, 
 and the case fatality ratio (Deaths/ Confirmed cases). To clarify the results we assigned each state a region 
