@@ -29,7 +29,7 @@ const year = L.control();
 		const contents = `
     <div class='container'>
     <label class='label'>Year</label>
-    <select id='year' class='formcontrol' onChange='selectYearandRegion()'>
+    <select id='year' name='yearCtrl' class='formcontrol' onChange='selectYearandRegion()'>
     <option selected value='2021'>2021</option>
     <option value='2022'>2022</option>
     <option value='2023'>2023</option>
@@ -69,7 +69,7 @@ const year = L.control();
 
 		const div = L.DomUtil.create('div', 'info legend');
 		const grades = [100, 5000, 20000, 40000, 50000, 70000, 90000 ];
-		const labels = [];
+		const labels = ['<strong>Number of Deaths</strong>'];
 		let from, to;
 
 		for (let i = 0; i < grades.length; i++) {
@@ -86,13 +86,16 @@ const year = L.control();
 	legend.addTo(map);
 // function to call when the year and region values are selected 
 function selectYearandRegion(){ 
+  
+
 const year = document.getElementById('year').value; // get the selected year value 
 const region = document.getElementById('region').value; // get the selected region value
 
 //clear the layer to remove the markers when values are changed from the year and region dropdowns
 layerGroup.clearLayers();
 
-// based on the selected year change the JSON file path to load 
+
+// based on the selected year change the JSON file path to load  
   if(year == '2021'){
     link = '../Improved/improved_2021.json';
   }
