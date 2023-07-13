@@ -53,7 +53,8 @@ const year = L.control();
 	year.addTo(map);
 
   // get color depending on number of deaths 
-	function getColor(d) {    // Reference: example in leaflet documentation for 
+  // Reference: leaflet example (view-source:https://leafletjs.com/examples/choropleth/example.html )
+	function getColor(d) {      
     return d > 90000 ? '#800026' :
     d > 70000  ? '#BD0026' :
     d > 50000  ? '#E31A1C' :
@@ -63,8 +64,7 @@ const year = L.control();
     d > 100  ? '#FED976' : '#FFEDA0';
 	}
 
-  // Setup the legend.
-  // Reference: leaflet example (view-source:https://leafletjs.com/examples/choropleth/example.html )  
+  // Setup the legend.    
   const legend = L.control({position: 'bottomright'});
 
 	legend.onAdd = function (map) {  
