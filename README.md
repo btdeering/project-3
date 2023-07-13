@@ -11,7 +11,8 @@ For web application:
 
 Stps to run the HTML web application:
 
-- Go to your terminal and find the location where the index.html file is
+- Clone the repository to local folder
+- Go to your terminal and find the location where the index.html file is 
 - type: python -m http.server (to run local server)
 - From your local folder open "index.html" file.
 - Once html browser opens clear the browser and type : localhost:8000  ( to run the web application)
