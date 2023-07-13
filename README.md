@@ -9,7 +9,7 @@ For web application:
 - style.css in the Covid_data folder is the main css file.
 - index.html file is the main file to run.
 
-stps to run the HTML web application:
+Stps to run the HTML web application:
 
 - Go to your terminal and find the folder where the index.html file is
 - type: python -m http.server (to run local server)
