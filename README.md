@@ -6,7 +6,7 @@ to better show covid-19's impact on the United States. The regions goes as follo
 
 To Run the HTML webpage:
 
-- Go to your terminal and to into your folder where the file is
+- Go to your terminal and go into your folder where the file is
 - type: python -m http.server (to run local server)
 - From your folder open "index.html" file.
-- Once it opens type : localhost:8000 ( to run the webpage)
+- Once it opens type : localhost:8000 in the url section ( to run the webpage)
