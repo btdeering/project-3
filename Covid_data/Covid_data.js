@@ -70,7 +70,7 @@ const year = L.control();
 	legend.onAdd = function (map) {  
 
 		const div = L.DomUtil.create('div', 'info legend');  
-		const grades = [100, 5000, 20000, 40000, 50000, 70000, 90000 ];
+		const grades = [100, 5000, 10000, 30000, 50000, 70000, 90000 ];
 		const labels = ['<strong>Number of Deaths</strong>'];
 		let from, to;
 
