@@ -18,7 +18,7 @@ Steps to run the HTML web application:
 - Once the HTML browser opens clear the browser and type: localhost:8000  ( to run the web application)
 
 Analysis
--The analysis of COVID-19 impact across different regions reveals significant variations in the increase of confirmed cases, deaths, and changes in the case fatality ratio. 
--The Southwest region experienced a substantial surge in cases, while the Southeast region faced higher mortality rates.
--The Southeast region also demonstrated the most significant improvement in managing severe cases. These findings underscore the importance of region-specific strategies to control the spread, reduce mortality rates, and effectively address the impact of COVID-19 on public health.
--The data highlights the importance of analyzing regional variations in COVID-19 impact. It emphasizes the need for tailored and targeted interventions, considering the specific challenges and patterns of infection, mortality, and case fatality ratio within each region. This analysis can guide policymakers and healthcare authorities in implementing region-specific measures to effectively control the spread of the virus and minimize the impact on public health.
+- The analysis of COVID-19 impact across different regions reveals significant variations in the increase of confirmed cases, deaths, and changes in the case fatality ratio. 
+- The Southwest region experienced a substantial surge in cases, while the Southeast region faced higher mortality rates.
+- The Southeast region also demonstrated the most significant improvement in managing severe cases. These findings underscore the importance of region-specific strategies to control the spread, reduce mortality rates, and effectively address the impact of COVID-19 on public health.
+- The data highlights the importance of analyzing regional variations in COVID-19 impact. It emphasizes the need for tailored and targeted interventions, considering the specific challenges and patterns of infection, mortality, and case fatality ratio within each region. This analysis can guide policymakers and healthcare authorities in implementing region-specific measures to effectively control the spread of the virus and minimize the impact on public health.
