@@ -52,7 +52,8 @@ const year = L.control();
 
 	year.addTo(map);
 
-	function getColor(d) {
+  // get color depending on number of deaths 
+	function getColor(d) {    // Reference: example in leaflet documentation for 
     return d > 90000 ? '#800026' :
     d > 70000  ? '#BD0026' :
     d > 50000  ? '#E31A1C' :
@@ -63,16 +64,17 @@ const year = L.control();
 	}
 
   // Setup the legend.
+  // Reference: leaflet example (view-source:https://leafletjs.com/examples/choropleth/example.html )  
   const legend = L.control({position: 'bottomright'});
 
-	legend.onAdd = function (map) {
+	legend.onAdd = function (map) {  
 
-		const div = L.DomUtil.create('div', 'info legend');
+		const div = L.DomUtil.create('div', 'info legend');  
 		const grades = [100, 5000, 20000, 40000, 50000, 70000, 90000 ];
 		const labels = ['<strong>Number of Deaths</strong>'];
 		let from, to;
 
-		for (let i = 0; i < grades.length; i++) {
+		for (let i = 0; i < grades.length; i++) {  
 			from = grades[i];
 			to = grades[i + 1];
 
@@ -131,7 +133,7 @@ layerGroup.clearLayers();
   transform: rotate(45deg);
   border: 1px solid #FFFFFF`
   
-      const myIcon = L.divIcon({
+      const myIcon = L.divIcon({ //Reference : leaflet icon documentation (https://leafletjs.com/reference.html#divicon)
         className: "my-custom-pin",
         iconAnchor: [0, 24],
         labelAnchor: [-6, 0],
